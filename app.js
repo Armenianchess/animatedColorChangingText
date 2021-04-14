@@ -14,4 +14,4 @@ let letters = document.querySelectorAll('.letter')
         for (letter of letters) {
             letter.style.color = randColor();
         }
-    }, 750)
+    }, 1750)
