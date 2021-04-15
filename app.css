@@ -1,20 +1,19 @@
 body {
-    background-color: orchid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+
+    background-color: teal;
 }
+
 
 h1 {
-    font-size: 3rem;
-    /* border: 1px red solid; */
-    text-align: center;
-  /* border: 1px red solid; */
-    margin-top: 300px;
-}
+    font-size: 10rem;
 
-#secondH1 {
 
 }
-
 
 .letter {
-    transition: color 500ms;
+    transition: color 1000ms;
 }
