@@ -1,0 +1,2 @@
+# animatedColorChangingText
+### animatedColorChangingText
